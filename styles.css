@@ -139,7 +139,7 @@ section .title::after {
 
 /*  Nav Logo Span Linear-Gradient  */
 .navbar .logo a span {
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #FFFFFF, #FF0000, #F4C430);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease;
@@ -249,7 +249,7 @@ section .title::after {
 /* Linear Gradient */
 .home .home-content .text-3 span {
   color: #1e3551;
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #FFFFFF, #FF0000, #F4C430);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 500;
@@ -310,7 +310,7 @@ section .title::after {
 /* Linear Gradiant */
 .about .about-content .right .text span {
   /* color: #1e3551; */
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #FFFFFF, #FF0000, #F4C430);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
